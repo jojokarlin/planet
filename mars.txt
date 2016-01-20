@@ -1,3 +1,4 @@
 This is my Mars file. The red planet is a small planet. And on this planet we stage our crazy bootcamp story of love, betrayal, and breakfast pastry.
 There will also be coffee.
 The digital fellows traveled to the red planet first. They brought danish and muffins.
+I wondered -- what will git commit?
